@@ -1,0 +1,120 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- CSS -->
+        <link rel="stylesheet" href="css/bootstrap.css">
+        <link rel="stylesheet" href="css/main.css">
+
+
+        <!-- JS -->
+        <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+        <script src="js/main.js"></script>
+
+
+
+
+
+    </head>
+    <body>
+
+        <!-- BODY CONTAINER -->
+        <div class="container-fluid col-md-8 container-center">
+
+            <!-- HEADER -->
+                <div class="row header-sc">
+                    <div class="col-md-2 col-md-offset-9 right-txt"><span class="sc-presales-txt-med">Softchoice</span><span class="sc-presales-txt-light">Presales</span></div>
+                </div>
+
+                <div class="row header-portal">
+                    <div class="col-md-6 col-md-offset-1">PSR Routing Portal</div>
+                </div>
+
+            <!-- DATA -->
+                <div class="row header-row">
+                    <div class="col-md-2 col-md-offset-1">Data Input</div>
+                </div>
+                <div class="row content-row">
+                        <div class="col-md-4">
+                            <div class="panel panel-default">
+                                <div class="panel-heading center-txt">Branch List</div>
+                                <div class="panel-body center-txt">No branch file selected.  
+                                    <span class="btn btn-default btn-file btn-block">
+                                        Choose file <input type="file" id="csv-file" name="files" />
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="panel panel-default">
+                                <div class="panel-heading center-txt">TSD Team List</div>
+                                <div class="panel-body center-txt">No branch file selected.
+                                    <span class="btn btn-default btn-file btn-block">
+                                        Choose file <input type="file" id="csv-file" name="files" />
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="panel panel-default">
+                                <div class="panel-heading center-txt">Routing Matrix</div>
+                                <div class="panel-body center-txt">No branch file selected.
+                                    <span class="btn btn-default btn-file btn-block">
+                                        Choose file <input type="file" id="csv-file" name="files" />
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+
+            <!-- MAP -->
+                <div class="row">
+                        <div id="map"></div> 
+                </div>
+
+            <!-- COVERAGE DATA -->       
+            <div class="row header-row">
+                <div class="col-md-4 col-md-offset-1">Coverage Overview</div>
+                <div class="col-md-4 col-md-offset-2 right-txt">
+                    <div class="btn-group btn-group-sm" role="group" aria-label="...">
+                        <button type="button" class="coverage-selector">Districts</button>
+                        <button type="button" class="coverage-selector active">Branches</button>
+                    </div>
+                </div>
+            </div>
+            <div class="row content-row">
+                <div class="col-md-6 col-md-offset-3 center-txt">
+                    <div class="coverage-legend">
+                        <span class="covered-txt">Covered</span> <span class="partial-txt">Partial Coverage</span> <span class="no-coverage-txt">No Coverage</span>
+                    </div>
+                </div>
+
+                <div class="col-md-10 col-md-offset-1">
+                    <table id="branch-table" class="display" width="100%" cellspacing="0">
+                        <thead>
+                            <tr>
+                                <th>Division</th>
+                                <th>Region</th>
+                                <th>District</th>
+                                <th>Branch</th>
+                                <th>City</th>
+                            </tr>
+                        </thead>
+                    </table>
+                </div>
+            </div>
+
+        </div>
+
+    <!-- Google Maps -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCL21ZDN0nh6RCNmZpGBzhv-996MfWFQLU&callback=initMap" async defer></script>
+
+    </body>
+</html>

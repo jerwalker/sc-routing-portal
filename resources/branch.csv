@@ -1,0 +1,53 @@
+Division,Region,District,Branch,Site (Owning User)
+200,US East Region,US South East District,Atlanta Mid Market,Atlanta
+200,US East Region,US South Central,Austin Sales,Dallas
+200,US East Region,US South East District,Birmingham Sales Agent,Atlanta
+200,US East Region,US New England District,Boston Sales,Boston
+100,Canada Region,CA Prairies District,Calgary Public Sector,Calgary
+100,Canada Region,CA Prairies District,Calgary Sales,Calgary
+100,Canada Region,Canada Adjustment District,Canada Adjustment Branch,Toronto
+200,US East Region,US Mid Atlantic District,Charlotte Sales,McLean
+200,US West Region,US MidWest District,Chicago Sales,Chicago
+200,US East Region,US Mid Atlantic District,Cleveland Sales,McLean
+200,US East Region,US Mid Atlantic District,Columbus Sales,McLean
+200,US East Region,US New England District,Connecticut Sales,Boston
+100,CA Corporate Region,CA Corporate District,Corporate CA,Toronto
+200,US Corporate Region,US Corporate District,Corporate US,Toronto
+200,US East Region,US South Central,Dallas Sales,Dallas
+200,US West Region,US Desert Mountain District,Denver Sales,Denver
+100,Canada Region,Atlantic District,Fredericton,Oakville
+100,Canada Region,Atlantic District,Halifax,Oakville
+200,US East Region,US South Central,Houston Sales,Dallas
+200,US West Region,US MidWest District,Indianapolis Sales,Chicago
+200,US West Region,US SoCal District,Irvine Sales,Los Angeles
+200,US East Region,US Florida District,Jacksonville Sales,Tampa
+200,US West Region,US Heartland States,Kansas City Mid Market,Minneapolis
+200,US West Region,US SoCal District,Los Angeles Sales,Los Angeles
+200,US East Region,US Florida District,Miami Sales,Tampa
+200,US West Region,US Heartland States,Minneapolis Sales,Minneapolis
+100,Canada Region,CA Quebec District,Montreal Sales,Montreal
+200,US East Region,US New York District,New York Sales,New York
+100,Canada Region,Oakville District,Oakville,Toronto
+200,US East Region,US Florida District,Orlando Sales,Tampa
+100,Canada Region,Ottawa Public Sector District,Ottawa Public Sector,Ottawa
+200,US East Region,US New York District,Philadelphia Sales,New York
+200,US West Region,US Desert Mountain District,Phoenix Sales,Denver
+200,US West Region,US North West District,Portland Sales,Seattle
+100,Canada Region,CA Quebec District,Quebec Sales,Montreal
+200,US West Region,US Desert Mountain District,Salt Lake City Sales,Denver
+200,US West Region,US SoCal District,San Diego Sales,Los Angeles
+200,US West Region,Us Norcal District,San Francisco Sales,Seattle
+200,US West Region,US North West District,Seattle Sales,Seattle
+200,US West Region,US Heartland States,St Louis Mid Market,Minneapolis
+200,US East Region,US Florida District,Tampa Sales,Tampa
+200,US East Region,US South East District,Tennessee Sales,Atlanta
+100,Canada Region,CA Enterprise Central District,Toronto Enterprise,Toronto
+100,Canada Region,Toronto Mid Market District,Toronto Mid Market,Toronto
+200,US East Region,US South Central,Tulsa Sales,Dallas
+200,US Govt Region,US Public Sector District,US Fed,Virginia
+200,US Govt Region,US Public Sector District,US SLED,Virginia
+100,Canada Region,CA British Columbia District,Vancouver Sales,Vancouver
+100,CA Corporate Region,CA Corporate District,Virtual CA,Toronto
+200,US Corporate Region,US Corporate District,Virtual US,Toronto
+200,US East Region,US Mid Atlantic District,Washington Sales,McLean
+200,US West Region,US MidWest District,Wisconsin,Chicago

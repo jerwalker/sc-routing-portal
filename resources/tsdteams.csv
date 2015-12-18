@@ -1,0 +1,30 @@
+Team Name,Administrator,Business Unit,Created By,Created On,Parent Team,Parent Triton Team ID,Is Horizon Team,Horizon Team ID
+TSR ASR ATLANTA,Michelle Fernandez,Horizon Teams,CRM Admin,5-21-2015 3:19 PM,TSR ASR US - PARENT,342,Yes,345
+TSR ASR CANADA - PARENT,CRM Admin,Horizon Parent Teams,CRM Admin,5-21-2015 3:19 PM,,,Yes,341
+TSR ASR CHICAGO,Jesse Dow,Horizon Teams,CRM Admin,5-21-2015 3:19 PM,TSR ASR US - PARENT,342,Yes,346
+TSR ASR MONTREAL,Sebastien Leduc,Horizon Teams,CRM Admin,5-21-2015 3:19 PM,TSR ASR CANADA - PARENT,341,Yes,344
+TSR ASR SEATTLE,Bryan Richards,Horizon Teams,CRM Admin,5-21-2015 3:19 PM,TSR ASR US - PARENT,342,Yes,347
+TSR ASR TORONTO,Daniella Olivito,Horizon Teams,CRM Admin,5-21-2015 3:19 PM,TSR ASR CANADA - PARENT,341,Yes,343
+TSR ASR US - PARENT,CRM Admin,Horizon Parent Teams,CRM Admin,5-21-2015 3:19 PM,,,Yes,342
+TSR CAN Central,Madalina Paul,Horizon Teams,CRM Admin,4-18-2013 9:01 PM,TSR CAN Central - Parent,29,Yes,52
+TSR CAN Central - Parent,CRM Admin,Horizon Teams,Zang Nguyen,10-8-2013 3:11 PM,TSD Org Parent (No SLED),401,Yes,29
+TSR CAN Central ( NON GTA ),Jeremy Baynes,Horizon Teams,CRM Admin,6-11-2013 7:16 PM,TSR CAN Central - Parent,29,Yes,53
+TSR CAN East,Rob Mills,Horizon Teams,CRM Admin,4-18-2013 9:01 PM,TSR CAN East - Parent,30,Yes,54
+TSR CAN East - Parent,CRM Admin,Horizon Teams,CRM Admin,10-8-2013 4:11 PM,TSD Org Parent (No SLED),401,Yes,30
+TSR CAN West,Jordan Darling,Horizon Teams,CRM Admin,4-18-2013 9:01 PM,TSR CAN West - Parent,31,Yes,55
+TSR CAN West - Parent,CRM Admin,Horizon Teams,CRM Admin,10-8-2013 4:11 PM,TSD Org Parent (No SLED),401,Yes,31
+TSR US Central North,Deidre Lipton,Horizon Teams,CRM Admin,4-18-2013 9:01 PM,TSR US Central North - Parent,34,Yes,58
+TSR US Central North - Parent,CRM Admin,Horizon Teams,CRM Admin,10-8-2013 4:11 PM,TSD Org Parent (No SLED),401,Yes,34
+TSR US Central South & DSRT MNTN,Joshua Bussiere,Horizon Teams,CRM Admin,4-18-2013 9:02 PM,TSR US Central South & DSRT MNTN - Parent,32,Yes,56
+TSR US Central South & DSRT MNTN - Parent,CRM Admin,Horizon Teams,CRM Admin,10-8-2013 4:11 PM,TSD Org Parent (No SLED),401,Yes,32
+TSR US East,Robbie Bostedo,Horizon Teams,CRM Admin,4-18-2013 9:01 PM,TSR US East - Parent,33,Yes,57
+TSR US East - Parent,CRM Admin,Horizon Teams,CRM Admin,10-8-2013 4:11 PM,TSD Org Parent (No SLED),401,Yes,33
+TSR US East (Texas),Jay Bloom,Horizon Teams,Lei Ha,11-21-2014 2:35 PM,TSR US East (Texas) - Parent,81,Yes,262
+TSR US East (Texas) - Parent,CRM Admin,Horizon Teams,CRM Admin,12-9-2014 10:48 PM,TSD Org Parent (No SLED),401,Yes,81
+TSR US East South,Dominic Wong,Horizon Teams,CRM Admin,6-11-2013 7:16 PM,TSR US East - Parent,33,Yes,121
+TSR US SLED,Dave Tomke,Horizon Teams,CRM Admin,4-18-2013 9:01 PM,TSR US SLED - Parent,36,Yes,60
+TSR US SLED - Parent,CRM Admin,Horizon Parent Teams,CRM Admin,10-8-2013 4:11 PM,,,Yes,36
+TSR US West CALI,David Shapiro,Horizon Teams,CRM Admin,4-18-2013 9:01 PM,TSR US West CALI - Parent,37,Yes,61
+TSR US West CALI - Parent,CRM Admin,Horizon Teams,CRM Admin,10-8-2013 4:11 PM,TSD Org Parent (No SLED),401,Yes,37
+TSR US West North,David Wagner,Horizon Teams,CRM Admin,4-18-2013 9:01 PM,TSR US West North - Parent,35,Yes,59
+TSR US West North - Parent,CRM Admin,Horizon Teams,CRM Admin,10-8-2013 4:11 PM,TSD Org Parent (No SLED),401,Yes,35

@@ -116,9 +116,16 @@
 		line-height: 1.8em;
 	}
 
-
 	.panel-default>.panel-body{
 		background-color: #F6F9FC;
+	}
+
+	.loaded{
+		color: #6AAD26;
+	}
+
+	.failed{
+		color: red;
 	}
 
 
